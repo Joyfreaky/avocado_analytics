@@ -40,6 +40,12 @@
         </div>
       </li>
       <li class="step">
+        <h4>Download and extract the dataset from Kaggle:</h4>
+        <div class="code">
+          <pre><code>kaggle datasets download -d bharbhi/avacado-prices</code></pre>
+        </div>
+      </li>
+      <li class="step">
         <h4>Launch Jupyter Notebook:</h4>
         <div class="code">
           <pre><code>jupyter notebook</code></pre>
