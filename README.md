@@ -40,10 +40,9 @@
         </div>
       </li>
       <li class="step">
-        <h4>Download and extract the dataset from Kaggle:</h4>
-        <div class="code">
-          <pre><code>kaggle datasets download -d bharbhi/avacado-prices</code></pre>
-        </div>
+        <h4>Download the dataset:</h4>
+        <p>Download the Avocado Prices dataset from the following link:</p>
+        <a href="https://www.kaggle.com/code/bharbhi/avacado-prices/input" target="_blank">Avocado Prices Dataset</a>
       </li>
       <li class="step">
         <h4>Launch Jupyter Notebook:</h4>
